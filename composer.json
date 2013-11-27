@@ -17,7 +17,7 @@
     ],
     "require": {
         "php": ">=5.3.3",
-        "symfony/security-csrf": "~2.4",
+        "symfony/security-csrf": ">=2.4",
         "twig/twig": ">=1.11"
     },
     "require-dev": {
